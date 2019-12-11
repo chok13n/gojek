@@ -16,6 +16,6 @@ setelah itu anda wajib memasukan kode perintah untuk mendownload script auto cla
 
 lalu masukan kode perintah untuk menjalankan script , kode ini untuk daftar dan claim voucher go food gojek cd gofood
 
-php tembak.php
+php inject.php
 
 untuk selengkapnya baca di
