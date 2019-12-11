@@ -14,7 +14,9 @@ pkg install git
 
 git clone https://github.com/mkharis22/Go-jek
 
-lalu masukan kode perintah untuk menjalankan script , kode ini untuk daftar dan claim voucher go food gojek cd gofood
+lalu masukan kode perintah untuk menjalankan script , kode ini untuk daftar dan claim voucher go food gojek 
+
+cd Go-jek
 
 php inject.php
 
