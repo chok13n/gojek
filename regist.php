@@ -76,9 +76,6 @@ echo color("green","Masukan nomor: Indonesia 62*****, Us 1*****\n\n");
                                         $debug['respon'] = json_decode($datas, true);
         
          
-         }
-         }
-        }
          }else{
             echo color("red","-] Otp yang anda input salah");
             echo"\n==================================\n\n";
