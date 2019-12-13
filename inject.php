@@ -7,6 +7,7 @@ echo color("red","| Auto create Gojek X Redeem voucher |\n");
 echo color("red","| github: kumpulanremaja |\n");
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo color("yellow"," ===========================\n\n");
+
 echo color("green","Masukan nomer: Indonesia 62*****, Us 1*****\n");
 
 // function change(){
