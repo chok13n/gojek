@@ -8,8 +8,7 @@ echo color("red","| github: mkharis22 |\n");
 echo color("red","| Creator : mkharis22        |\n");
 echo "| Version : Premium X pertalite      |\n";
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
-echo color("green"," ===========================\n";
-echo color("red","Input nomer menggunakan 62 |indo| atau 1 |us|\n";
+echo "| ===========================\n";
 
 // function change(){
         $nama = nama();
