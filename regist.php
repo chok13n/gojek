@@ -4,9 +4,10 @@ include "function.php";
 echo color("red","     ===========================\n");
 echo color("red","| Auto create Gojek No Redeem voucher |\n");
 echo color("yellow","| Script   : No Claim                |\n");
-echo color("blue","| Creator  : kvnMtnckz               |\n");
+echo color("blue","| Creator  : mkharis22               |\n");
 echo color("green","| Time     : ".date('[d-m-Y] [H:i:s]')." |\n");
-echo color("green","     ===========================\n");
+echo color("red","     ===========================\n\n");
+echo color("green","Masukan nomor: Indonesia 62*****, Us 1*****\n\n");
 
 // function change(){
         $nama = nama();
