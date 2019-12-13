@@ -1,13 +1,13 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-echo color("red"," ===========================\n");
+echo color("yellow"," ===========================\n");
 echo color("red","| Claim Voucher Gojek|\n");
 echo color("red","| Auto create Gojek X Redeem voucher |\n");
 echo color("red","| github: kumpulanremaja |\n");
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
-echo " ===========================\n\n";
-echo color("red","Masukan nomer: indonesia 62*****, Us 1*****\n");
+echo color("yellow"," ===========================\n\n";
+echo color("green","Masukan nomer: Indonesia 62*****, Us 1*****\n\n");
 
 // function change(){
         $nama = nama();
