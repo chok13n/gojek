@@ -1,14 +1,15 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-echo color("red"," ===========================\n");
+echo color("yellow"," ===========================\n");
 echo color("red","| Claim Voucher Gojek|\n");
 echo color("red","| Auto create Gojek X Redeem voucher |\n");
 echo color("red","| github: mkharis22 |\n");
 echo color("red","| Creator : mkharis22        |\n");
 echo "| Version : Premium X pertalite      |\n";
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
-echo " ===========================\n";
+echo color("yellow"," ===========================\n\n";
+echo color("red","Input nomer menggunakan 62 (indo) atau 1 (us)\n";
 
 // function change(){
         $nama = nama();
