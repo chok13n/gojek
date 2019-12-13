@@ -1,8 +1,10 @@
-#voucher gojek claim voucher terbaru
+#Auto regist dan claim voucher terbaru gojek
 
 voucher go food dan Go ride
 
-kode perintah pkg update
+kode perintah :
+
+pkg update
 
 pkg upgrade
 
@@ -19,5 +21,8 @@ lalu masukan kode perintah untuk menjalankan script , kode ini untuk daftar dan 
 cd Go-jek
 
 php inject.php
+
+Jika ingin regist saja tanpa claim voucher
+Ganti php inject.php dengan php regist.php
 
 
