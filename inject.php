@@ -4,11 +4,11 @@ include "function.php";
 echo color("yellow"," ===========================\n");
 echo color("red","| Claim Voucher Gojek|\n");
 echo color("red","| Auto create Gojek X Redeem voucher |\n");
-echo color("red","| github: kumpulanremaja |\n");
+echo color("red","| github: mkharis22 |\n");
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo color("yellow"," ===========================\n\n");
 
-echo color("green","Masukan nomer: Indonesia 62*****, Us 1*****\n");
+echo color("green","Masukan nomor: Indonesia 62*****, Us 1*****\n\n");
 
 // function change(){
         $nama = nama();
